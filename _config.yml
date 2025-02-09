@@ -1,2 +1,15 @@
 title: ""  # 사이트 제목을 공란으로
 description: ""  # 사이트 설명도 필요없다면 공란
+
+# GitHub에서 제공하는 기본 테마를 쓰고 싶다면 아래처럼 지정
+theme: jekyll-theme-cayman
+
+# 또는 theme: jekyll-theme-minimal
+#            jekyll-theme-midnight
+#            jekyll-theme-modernist
+#            jekyll-theme-slate
+# 등 다른 테마 이름을 넣을 수 있습니다
+
+# 필요하다면 페이지 빌드 시 플러그인을 쓰겠다고 선언
+plugins:
+  - jekyll-remote-theme
