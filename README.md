@@ -1,2 +1,2 @@
-# control_tutorial
+# Control Algorithms
 Control Tutorials
